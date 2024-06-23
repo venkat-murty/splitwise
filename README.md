@@ -1,0 +1,2 @@
+# splitwise
+Splitwise using LPSolve
